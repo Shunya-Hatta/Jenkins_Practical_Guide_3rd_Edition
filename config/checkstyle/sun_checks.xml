@@ -148,10 +148,6 @@
         <module name="EmptyStatement"/>
         <module name="EqualsHashCode"/>
         <module name="HiddenField"/>
-        	<!--  ADD  -->
-        	<property name="tokens" value="VARIABLE_DEF"/>
-        </module>
-        	<!--  END  -->
         <module name="IllegalInstantiation"/>
         <module name="InnerAssignment"/>
         <module name="MagicNumber"/>
